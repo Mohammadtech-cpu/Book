@@ -1,16 +1,19 @@
-# Book
+# GitHub Learning
 
-This is my first GitHub project.
+Welcome to my GitHub learning repository.
 
-## Description
+## About
 
-A simple project for learning Git and GitHub.
+This repository contains my exercises
+and projects while learning GitHub.
 
-## Features
+## Learning Goals
 
-- Learning Git
-- Practicing GitHub
-- Managing project files
+- Repository Management
+- Git and GitHub
+- Branching
+- Pull Requests
+- GitHub Actions
 
 ## Author
 
